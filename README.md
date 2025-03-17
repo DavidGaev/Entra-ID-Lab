@@ -28,18 +28,26 @@ You will then fill out the information and decide on what Username format your C
 <img src="https://i.imgur.com/ao2A7c0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This page is where you decide license given to the user. You can select multiple options:  <br/>
+<img src="https://i.imgur.com/YF30a9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This page is where Admin access is given if you are creating an Admin level user:  <br/>
+<img src="https://i.imgur.com/KwuGDtv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+On this page, you finalize all of your options and click "Finish Adding":  <br/>
+<img src="https://i.imgur.com/rJjSsR7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+On the Active User page, You can do all sorts of options like resetting a password or managing things like MFA or the RBAC and Licenses:  <br/>
+<img src="https://i.imgur.com/HjuzNbO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+This will be your Group page where you can create M365 Groups or create Security Groups:  <br/>
+<img src="https://i.imgur.com/7ZAC2b7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
+<br />
+This is your Organization Setting where you can set up MFA, SSO, and your Self Service Password Reset:  <br/>
+<img src="https://i.imgur.com/Oi4nCyt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
